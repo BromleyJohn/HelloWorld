@@ -26,6 +26,7 @@ C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\spec \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\spec.html \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\css\index.css \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\img\logo.png \
+C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\js\HelloWorld.js \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\js\index.js \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\res\icon \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\res\screen \
