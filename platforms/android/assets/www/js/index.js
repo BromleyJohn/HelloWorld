@@ -19,7 +19,9 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
+       
+       document.getElementById('loaded').innerHTML = "LOADED";
+       this.bindEvents();
     },
     // Bind Event Listeners
     //
