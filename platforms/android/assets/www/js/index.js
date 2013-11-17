@@ -20,7 +20,7 @@ var app = {
     // Application Constructor
     initialize: function() {
        
-       document.getElementById('loaded').innerHTML = 'LOADED';
+       document.getElementById('loaded').innerText = 'LOADED';
        this.bindEvents();
     },
     // Bind Event Listeners
