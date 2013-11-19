@@ -8,4 +8,7 @@ function changeColour(newColour) {
     elem.style.color = newColour;
   }
 
+function showCities() {
+    document.getElementById('cities').innerHTML = 'CITIES TO GO HERE!!!';
+  }
  
