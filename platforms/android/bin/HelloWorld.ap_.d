@@ -12,6 +12,7 @@ C:\PhoneGapApps\HelloWorld\platforms\android\bin\res\drawable-ldpi\icon.png \
 C:\PhoneGapApps\HelloWorld\platforms\android\bin\res\drawable-mdpi\icon.png \
 C:\PhoneGapApps\HelloWorld\platforms\android\bin\res\drawable-xhdpi\icon.png \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www \
+C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\cities.php \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\config.xml \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\cordova.js \
 C:\PhoneGapApps\HelloWorld\platforms\android\assets\www\cordova_plugins.js \
